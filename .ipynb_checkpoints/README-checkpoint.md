@@ -55,6 +55,6 @@ This Jupyter Notebook provides an end-to-end implementation of **customer churn 
 - Use a **Deep Learning Model** (e.g. TensorFlow, PyTorch) for comparison.
 
 ## Author
-- Jake McCaig
-- Medium Blog: (@mccaigjake)[https://medium.com/@mccaigjake]
-- Contact: McCaigJake@gmail.com
+- **Jake McCaig**
+- Medium Blog: [@mccaigjake](https://medium.com/@mccaigjake)
+- Contact: [McCaigJake@gmail.com](mailto:McCaigJake@gmail.com)
